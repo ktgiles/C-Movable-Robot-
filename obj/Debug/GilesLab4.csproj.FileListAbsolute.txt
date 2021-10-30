@@ -1,0 +1,10 @@
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\bin\Debug\GilesLab4.exe.config
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\bin\Debug\GilesLab4.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\bin\Debug\GilesLab4.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.csproj.AssemblyReference.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.frmDisplay.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.Properties.Resources.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.csproj.GenerateResource.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.csproj.CoreCompileInputs.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\GilesLab4\obj\Debug\GilesLab4.pdb
